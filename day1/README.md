@@ -1,3 +1,3 @@
 # day1
 
-A description of this package.
+Solution to day1
